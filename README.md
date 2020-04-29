@@ -8,6 +8,8 @@ Etkinliklerde yazılan kodlar
 * Döngüler
 * Operatörler
 * Fonksiyonlar
+* Dizgeler
+* Nesneye Yönelik Programlama
 
 ## Lisans
 Topluluğumuz tarafından yazılan kodlar MIT lisansı kapsamındadır.
